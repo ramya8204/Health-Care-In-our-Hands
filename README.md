@@ -31,7 +31,7 @@ Built with **Java** in **Android Studio**, the app focuses on a clean, user-frie
 - **Platform:** Android Studio  
 - **Language:** Java
 
-- 📈 Future Enhancements
+- **📈 Future Enhancements:**
    In-App Payments: Integrate secure payment gateways for consultations and orders.
    AI-Based Symptom Checker: Provide health suggestions based on symptoms.
    Telemedicine Support: Video consultation with healthcare professionals.
